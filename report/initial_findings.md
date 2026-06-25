@@ -58,3 +58,36 @@ Disease-burden indicators such as coronary heart disease, stroke, COPD, diabetes
 ## Current Conclusion
 
 Premature mortality in U.S. counties appears strongly patterned by both health conditions and socioeconomic disadvantage. The strongest non-disease signals include poor physical health, poor mental health, physical inactivity, smoking, poverty, lower income, and lower educational attainment.
+
+## Key Finding 4: Non-disease indicators can predict county premature mortality
+
+A predictive modeling step tested whether non-disease indicators could estimate county-level premature mortality.
+
+The model excluded disease-burden indicators such as coronary heart disease, stroke, COPD, diabetes, and high blood pressure to avoid an overly circular result.
+
+| Model | Test R² | Test MAE | Test RMSE |
+|---|---:|---:|---:|
+| Linear Regression | 0.66 | 46.08 | 62.44 |
+| Random Forest | 0.72 | 42.01 | 56.54 |
+
+The Random Forest model performed better, explaining about 72% of test-set variation in county-level premature mortality.
+
+## Key Finding 5: Poor mental health was the strongest non-disease model signal
+
+In the Random Forest model, the strongest non-disease predictors were:
+
+| Predictor | Random Forest Permutation Importance |
+|---|---:|
+| Poor Mental Health | 0.204 |
+| Physical Inactivity | 0.054 |
+| Uninsured | 0.036 |
+| Poverty | 0.022 |
+| Bachelor's Degree or Higher | 0.020 |
+| Smoking | 0.019 |
+| Median Household Income | 0.019 |
+
+This suggests that premature mortality is tied to a broader county-level risk profile involving mental health, physical inactivity, healthcare access, poverty, education, smoking, and income.
+
+## Modeling Interpretation Note
+
+Feature importance does not prove causation. Poor mental health should be interpreted as the strongest non-disease warning signal in the model, not as proof that mental health alone causes premature mortality.
