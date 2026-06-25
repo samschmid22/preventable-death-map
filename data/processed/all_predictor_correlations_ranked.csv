@@ -1,0 +1,17 @@
+predictor,label,group,correlation_with_premature_mortality,absolute_correlation,rows_used
+coronary_heart_disease_rate,Coronary Heart Disease,Disease Burden,0.7897183148822559,0.7897183148822559,3108
+poor_physical_health_rate,Poor Physical Health,Health Behavior / Status,0.7864165736755354,0.7864165736755354,3108
+stroke_rate,Stroke,Disease Burden,0.7794791580783972,0.7794791580783972,3108
+poor_mental_health_rate,Poor Mental Health,Health Behavior / Status,0.7752050612972875,0.7752050612972875,3108
+copd_rate,COPD,Disease Burden,0.7606750843346927,0.7606750843346927,3108
+high_blood_pressure_rate,High Blood Pressure,Disease Burden,0.7524644893961007,0.7524644893961007,3108
+physical_inactivity_rate,Physical Inactivity,Health Behavior / Status,0.7443834671341967,0.7443834671341967,3108
+smoking_rate,Smoking,Health Behavior / Status,0.7418938625770933,0.7418938625770933,3108
+diabetes_rate,Diabetes,Disease Burden,0.7286255092515671,0.7286255092515671,3108
+poverty_rate,Poverty,Socioeconomic,0.6992019655139311,0.6992019655139311,3108
+median_household_income,Median Household Income,Socioeconomic,-0.6753709484900838,0.6753709484900838,3108
+insufficient_sleep_rate,Insufficient Sleep,Health Behavior / Status,0.6381948954631739,0.6381948954631739,3108
+obesity_rate,Obesity,Health Behavior / Status,0.6129242154802846,0.6129242154802846,3108
+bachelor_plus_rate,Bachelor's Degree or Higher,Socioeconomic,-0.5966164471884406,0.5966164471884406,3108
+unemployment_rate,Unemployment,Socioeconomic,0.5522880514872066,0.5522880514872066,3108
+uninsured_rate,Uninsured,Health Behavior / Status,0.326006787734766,0.326006787734766,3108
