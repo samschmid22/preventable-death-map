@@ -1,0 +1,12 @@
+feature,label,linear_standardized_coefficient,abs_linear_standardized_coefficient
+poor_mental_health_rate,Poor Mental Health,25.425505461049717,25.425505461049717
+smoking_rate,Smoking,21.02948132808384,21.02948132808384
+poverty_rate,Poverty,19.568881920240006,19.568881920240006
+physical_inactivity_rate,Physical Inactivity,15.64138526310423,15.64138526310423
+unemployment_rate,Unemployment,15.063358223218048,15.063358223218048
+obesity_rate,Obesity,9.539706809313161,9.539706809313161
+poor_physical_health_rate,Poor Physical Health,-5.144144893355136,5.144144893355136
+bachelor_plus_rate,Bachelor's Degree or Higher,-4.162240054776053,4.162240054776053
+median_household_income,Median Household Income,-3.933887331127178,3.933887331127178
+insufficient_sleep_rate,Insufficient Sleep,3.4792679409096237,3.4792679409096237
+uninsured_rate,Uninsured,1.6681328584155035,1.6681328584155035

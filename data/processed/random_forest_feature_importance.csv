@@ -1,0 +1,12 @@
+feature,label,rf_permutation_importance,rf_permutation_importance_std
+poor_mental_health_rate,Poor Mental Health,0.2043032042450892,0.01846449365538749
+physical_inactivity_rate,Physical Inactivity,0.05350252037070476,0.007448681149810193
+uninsured_rate,Uninsured,0.03623549992545603,0.004477380888161534
+poverty_rate,Poverty,0.021651506268327396,0.005932172858245054
+bachelor_plus_rate,Bachelor's Degree or Higher,0.019601703884890596,0.0023855526345105465
+smoking_rate,Smoking,0.019402844493343084,0.006605602716683854
+median_household_income,Median Household Income,0.018775238080197487,0.004672181298754168
+poor_physical_health_rate,Poor Physical Health,0.01293117952354193,0.00477326809169773
+insufficient_sleep_rate,Insufficient Sleep,0.008035407471880519,0.0022273307483401715
+unemployment_rate,Unemployment,0.00753845162035841,0.0030926551319570695
+obesity_rate,Obesity,0.006277984753276317,0.0023630030929228493
