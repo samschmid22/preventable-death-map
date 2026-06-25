@@ -1,8 +1,8 @@
 ,correlation_with_premature_mortality
-poor_physical_health_rate,0.7864165736755376
-poor_mental_health_rate,0.7752050612972873
-physical_inactivity_rate,0.7443834671341992
-smoking_rate,0.7418938625770936
-insufficient_sleep_rate,0.6381948954631758
-obesity_rate,0.6129242154802871
-uninsured_rate,0.32600678773476666
+Poor Physical Health,0.7864165736755376
+Poor Mental Health,0.7752050612972873
+Physical Inactivity,0.7443834671341992
+Smoking,0.7418938625770936
+Insufficient Sleep,0.6381948954631758
+Obesity,0.6129242154802871
+Uninsured,0.32600678773476666
